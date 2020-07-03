@@ -1,9 +1,3 @@
-"""
-Name: Jeremy Krick
-RedID: 819826950
-Due: 02/12/2020
-Homework 2
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 
